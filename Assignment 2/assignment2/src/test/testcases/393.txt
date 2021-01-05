@@ -1,0 +1,12 @@
+
+        Function: main
+        Body:
+            Do
+                print(a);
+                print(b);
+                print(c);
+                Continue;
+            While(True);
+            foo(a,b,c[10][20]);
+        EndBody.
+        

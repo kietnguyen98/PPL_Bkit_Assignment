@@ -1,0 +1,15 @@
+
+        Var: x = 2 , y, z[2][3] = True;
+        Function: foo
+        Parameter: x , y, z 
+        Body:
+        EndBody.           
+        
+        Function: main
+        Parameter: t 
+        Body:
+            If (!(False)&&(2.5 >=. 1.0)) Then
+                y = foo(x,"String",z[1][2]);
+            EndIf.
+        EndBody.           
+                   

@@ -1,0 +1,10 @@
+
+        Function: main
+        Parameter : a = 100
+        Body:
+            Do
+                print(a);
+                a = a - 1;
+            While (a >= 0);
+        EndBody.
+        

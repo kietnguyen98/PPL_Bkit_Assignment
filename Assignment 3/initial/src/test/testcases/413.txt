@@ -1,0 +1,28 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: foo
+        Body:
+        EndBody.  
+        
+        Function: e
+        Body:
+        EndBody.   
+
+        Function: f
+        Body:
+            Var: hehe;
+        EndBody.  
+
+        Function: g
+        Parameter: zozo
+        Body:
+        EndBody.      
+
+        Function: hehe  
+        Body:
+        EndBody. 
+
+        Function: zozo
+        Body:
+        EndBody. 
+                   

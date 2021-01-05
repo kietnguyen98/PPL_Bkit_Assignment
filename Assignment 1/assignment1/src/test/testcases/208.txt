@@ -1,0 +1,35 @@
+ Function: justforfun1
+                        Parameter: n[1][2][3], abc
+                        Body:
+                        n[1][2][3] = abc * abc;
+                        EndBody.
+                    
+                    Function: justforfun2
+                        Parameter: n[3][4][5], fhg
+                        Body:
+                        n[3][4][5] = fhg * fhg;
+                        EndBody.
+                    
+                    Function: justforfun3
+                        Parameter: b[3][4],a1,b2,e3
+                        Body:
+                        b[3][1] = a1;
+                        b[3][2] = b2;
+                        b[3][3] = e3;
+                        EndBody.
+                    
+                    Function: justforfun4
+                        Parameter: a,b,c,e,d,f
+                        Body:
+                        a = b*c*e*d*f;
+                        EndBody.
+                    
+                    Function: justforfun5
+                        Parameter: a[10], b[10], c[10], d[10]
+                        Body:
+                        a[10] = b[10] + c[10];
+                        b[10] = a[10] + c[10];
+                        c[10] = b[10] + d[10];
+                        d[10] = a[10] + b[10];
+                        EndBody.         
+                

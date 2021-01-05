@@ -1,0 +1,9 @@
+
+            Var : a = 1;
+            Var : array[2][3];
+            Function: main
+            Parameter: array[2][3]
+            Body:
+                Var : b = 2;
+            EndBody.
+        

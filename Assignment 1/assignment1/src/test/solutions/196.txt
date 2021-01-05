@@ -1,0 +1,1 @@
+Function,:,foo1,Parameter,:,;,Body,:,If,(,foo2,(,),==,False,),Return,True,;,EndIf,.,EndBody,.,Function,:,foo2,Parameter,:,;,Body,:,If,(,foo1,(,),==,True,),Return,False,;,EndIf,.,EndBody,.,<EOF>

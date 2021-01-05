@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a),IntLiteral(100))],([][Dowhile([VarDecl(Id(a),[1],StringLiteral(hello))],[CallStmt(Id(print),[ArrayCell(Id(a),[IntLiteral(1)])])],UnaryOp(!,BinaryOp(||,BinaryOp(<=,Id(a),IntLiteral(0)),BinaryOp(>=,Id(a),IntLiteral(99)))))])])

@@ -1,0 +1,4 @@
+Var: a = 0xFF; 
+                   Var: b[2] = 0x123ABC;
+                   Var: c[3][100] = 0o567;
+                   Var: d = 0O77;

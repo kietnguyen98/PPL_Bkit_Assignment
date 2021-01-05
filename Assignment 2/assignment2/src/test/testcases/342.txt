@@ -1,0 +1,10 @@
+
+        Function: main
+        Parameter : n = 100
+        Body:
+            For (i = n, i < n*n , i = i*i) Do
+                Var: a = "hello";
+                writeln(a);
+            EndFor.
+        EndBody.
+        

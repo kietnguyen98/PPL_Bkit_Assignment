@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),FuncDecl(Id(program1)[],([][]),FuncDecl(Id(program2)[],([][]),FuncDecl(Id(main)[],([][Assign(Id(a),CallExpr(Id(program1),[CallExpr(Id(program2),[])]))])])

@@ -1,0 +1,6 @@
+ Function: testindexexpression
+                        Parameter: a,b,c
+                        Body:
+                            a[a[3 + foo(2)][b]][b[b[a][a]]] = a[b[2][b[foo(2)][12E-9]*3]] + 4;
+                        EndBody.
+                    

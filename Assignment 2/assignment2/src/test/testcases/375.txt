@@ -1,0 +1,12 @@
+
+        Function: main
+        Parameter: x,y,z
+        Body:
+            If (x == y) Then
+                x = ((a > 2) || (x >. 2e-3));
+                a = (x != z);
+            Else
+                z = (x < 3) && (y > 4);
+            EndIf.
+        EndBody.
+        

@@ -1,0 +1,8 @@
+
+        Function: main
+        Parameter : a = 10
+        Body:
+            Var : b = 100;
+            print(a*b);
+        EndBody.
+        

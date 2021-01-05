@@ -1,0 +1,8 @@
+ Function: testBreakStatement
+                        Parameter: x
+                        Body:
+                            For(i = 1, i <= 50, i = i + 1) Do
+                                Break;
+                            EndFor.
+                        EndBody.
+                    

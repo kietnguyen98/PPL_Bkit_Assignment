@@ -1,0 +1,7 @@
+ Function: testrelationalexpression
+                        Parameter: x,y,z
+                        Body:
+                            If (x == y) Then
+                            EndIf.
+                        EndBody.
+                    

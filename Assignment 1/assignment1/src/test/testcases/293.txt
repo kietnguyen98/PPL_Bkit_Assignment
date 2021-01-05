@@ -1,0 +1,23 @@
+ Var : a;
+                    Var : b[10][20];
+                    Var : x,y;
+                    
+                    Function: program1
+                    Parameter: e,f,g
+                    Body:
+                        While((a < 100)&&(x + y < f)) Do
+                            If(b[1][1] == "string") Then
+                                Return a;
+                            EndIf.
+                            x = x + 1;
+                            y = y + 1;
+                            a = a + 1;
+                        EndWhile.
+                    EndBody.
+
+                    Function: main
+                    Body:
+                        Var : a1,b1,c1;
+                        program1(a1,b1,c1);
+                    EndBody.
+                    

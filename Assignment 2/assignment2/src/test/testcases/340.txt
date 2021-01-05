@@ -1,0 +1,19 @@
+
+        Function: main
+        Parameter : i,a
+        Body:
+            If (i > 0) Then
+                i = i - 1;
+            ElseIf (i < 5) Then
+                If (a == 2) Then
+                    print(a + 5);
+                EndIf.
+            Else
+                If(a % 2 == 3) Then
+                    If (a % 3 == 2) Then
+                        print(a + 3);
+                    EndIf.
+                EndIf.
+            EndIf.
+        EndBody. 
+        

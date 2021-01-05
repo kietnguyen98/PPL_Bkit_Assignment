@@ -1,0 +1,10 @@
+
+        Function: main
+        Parameter : a = 100
+        Body:
+            Do
+                Var: a[1] = "hello";
+                print(a[1]);
+            While (!((a <= 0)||(a >= 99)));
+        EndBody.
+        

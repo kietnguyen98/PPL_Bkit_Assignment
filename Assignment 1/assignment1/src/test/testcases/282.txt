@@ -1,0 +1,6 @@
+ Function: testfuncallexpression
+                        Parameter: a,b
+                        Body:
+                            a = foo1(a) * foo2(b);
+                        EndBody.
+                    

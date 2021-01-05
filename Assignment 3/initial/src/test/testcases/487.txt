@@ -1,0 +1,9 @@
+
+        Var: x[2][3], y = False, z = True;
+        
+        Function: main
+        Parameter: t 
+        Body:
+            t = x[t -. 10.1][t +. 9.9];
+        EndBody.           
+                   

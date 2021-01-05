@@ -1,0 +1,7 @@
+ Function: main
+                        Body:
+                        Var: a[2][3][4];
+                        Var: string = "hello mice fence";
+                        Var: checker = True || False;
+                        EndBody.
+                    

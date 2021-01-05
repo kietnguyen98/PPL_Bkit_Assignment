@@ -1,0 +1,20 @@
+
+        Function: main
+        Body:
+            Var: a = 100, b = 50, c = 20;
+            Do
+                print(a);
+                a = a - 1;
+            While (a >= 0);
+
+            Do
+                print(b);
+                b = b - 1;
+            While (b >= 0);
+
+            Do
+                print(c);
+                c = c - 1;
+            While (a >= 0);
+        EndBody.
+        

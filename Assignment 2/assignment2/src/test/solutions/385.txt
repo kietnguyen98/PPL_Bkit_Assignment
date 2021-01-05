@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c))],([][If(CallExpr(Id(foo),[ArrayCell(Id(a),[Id(b),Id(a)])]),[],[CallStmt(Id(change),[CallExpr(Id(foo),[ArrayCell(Id(a),[Id(b),Id(a)])])])])Else([],[])])])

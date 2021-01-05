@@ -1,0 +1,16 @@
+
+        Var: x, y = 2.0, z = True;
+        
+        Function: foo
+        Parameter: i 
+        Body:
+            i = 5;
+            Return False;
+        EndBody.
+        
+        Function: main
+        Parameter: i, a[4][3]
+        Body:
+            foo(i);
+        EndBody. 
+                   

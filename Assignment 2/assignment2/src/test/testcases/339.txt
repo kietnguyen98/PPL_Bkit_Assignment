@@ -1,0 +1,23 @@
+
+        Function: main
+        Parameter : i,a,b
+        Body:
+            If (i > 0) Then
+                i = i - 1;
+            ElseIf (i < 5) Then
+                i = i + 1;
+            EndIf.
+
+            If (a > 10) Then
+                a = a - 1;
+            ElseIf (a < 100) Then
+                a = a + 1;
+            EndIf.
+
+            If (b > -20) Then
+                b = b + 1;
+            ElseIf (i > -100) Then
+                b = b + 100;
+            EndIf.
+        EndBody. 
+        

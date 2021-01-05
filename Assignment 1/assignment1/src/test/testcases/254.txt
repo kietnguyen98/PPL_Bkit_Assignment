@@ -1,0 +1,10 @@
+ Function: testCallStatement
+                        Parameter: x,y,z
+                        Body:
+                            If(x > y) Then
+                                sub(x,1);
+                            Else
+                                add(x,2);
+                            EndIf.
+                        EndBody.
+                    

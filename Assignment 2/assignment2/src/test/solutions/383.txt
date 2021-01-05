@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b))],([][CallStmt(Id(foo1),[CallExpr(Id(foo2),[CallExpr(Id(foo3),[CallExpr(Id(foo4),[])])])])])])

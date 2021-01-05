@@ -1,0 +1,11 @@
+
+        Function: main
+        Parameter : a = 100
+        Body:
+            While ((a > 0)&&(a<=100)) Do
+                Var: b = 5;
+                a = a - b;
+                print(a);
+            EndWhile.
+        EndBody.
+        

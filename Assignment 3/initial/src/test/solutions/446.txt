@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: Dowhile([],[Assign(Id(x),BinaryOp(+,Id(x),Id(y)))],UnaryOp(!,ArrayCell(Id(a),[IntLiteral(2),CallExpr(Id(foo),[Id(b)])])))

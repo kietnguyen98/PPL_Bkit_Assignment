@@ -1,0 +1,1 @@
+Program([VarDecl(Id(b),[1,2,3],StringLiteral(hello)),VarDecl(Id(c),[2],StringLiteral(hi!))])

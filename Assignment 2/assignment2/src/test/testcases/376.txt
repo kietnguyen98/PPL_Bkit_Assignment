@@ -1,0 +1,7 @@
+
+        Function: main
+        Parameter: a,b
+        Body:
+            a[3][b] = 10000 * b;
+        EndBody.
+        

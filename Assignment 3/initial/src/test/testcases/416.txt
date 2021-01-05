@@ -1,0 +1,9 @@
+
+         Var: x[2][3] = 5, y, z;
+         Function: main  
+         Body:
+             Var: t;
+             t = x[2][y];
+             y = z;
+         EndBody.           
+                    

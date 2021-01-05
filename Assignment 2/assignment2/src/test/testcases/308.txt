@@ -1,0 +1,5 @@
+Var: a = 10;
+                   Var: b = 5.8;
+                   Var: c = "123";
+                   Var: d = True;
+                   Var: e = False; 

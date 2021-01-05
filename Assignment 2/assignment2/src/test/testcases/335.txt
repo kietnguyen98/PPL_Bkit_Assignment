@@ -1,0 +1,9 @@
+
+        Function: main
+        Parameter : a,b,c
+        Body:
+            a = "hello my name is kiet";
+            b = "this is my testcase";
+            c = a + b;
+        EndBody.
+        

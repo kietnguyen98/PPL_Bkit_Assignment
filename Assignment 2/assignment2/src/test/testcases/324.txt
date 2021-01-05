@@ -1,0 +1,15 @@
+
+            Var : a = 1;
+            Var : b = 2;
+            Function: foo1
+            Parameter : c[2][3] = "string"
+            Body:
+                c[1][2] = "miss";
+            EndBody.
+
+            Function: foo2
+            Parameter : z = True
+            Body:
+                z = False;
+            EndBody.
+        

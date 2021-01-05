@@ -1,0 +1,9 @@
+ Function: testDowhilestatement
+                        Parameter: x,a,b
+                        Body:
+                            Do
+                                x = a + b;
+                                writeln(x);
+                            While(True || False || True || (a > b));
+                        EndBody.
+                    

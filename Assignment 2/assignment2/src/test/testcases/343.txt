@@ -1,0 +1,11 @@
+
+        Function: main
+        Parameter : n[5] = 10
+        Body:
+            For (i = n[1], i < n[5] , i = i*n[3]) Do
+                Var: a = 100;
+                Var: b = 50;
+                i = (((a / b) + b ) / b);
+            EndFor.
+        EndBody.
+        

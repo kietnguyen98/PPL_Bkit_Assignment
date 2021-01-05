@@ -1,0 +1,9 @@
+ Function: testDowhileStatement
+                        Parameter: x
+                        Body:
+                            Do
+                                x = x + 1;
+                                writeln(x);
+                            While(x < 100);
+                        EndBody.
+                    

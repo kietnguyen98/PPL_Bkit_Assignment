@@ -1,0 +1,17 @@
+
+        Var: x, y = 2.0, z = True;
+        
+        Function: foo
+        Parameter: i = True
+        Body:
+        EndBody.
+
+        Function: main
+        Parameter: i
+        Body:
+            Do
+                Var: t[2] = 5.0;
+                t[2] = -. y;
+            While(z && foo(x));
+        EndBody.           
+                   

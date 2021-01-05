@@ -1,0 +1,16 @@
+
+        Var : a;
+
+        Function: program1
+        Body:
+        EndBody.
+
+        Function: program2
+        Body:
+        EndBody.
+
+        Function: main
+        Body:
+            a = program1(program2());
+        EndBody.
+        

@@ -1,0 +1,9 @@
+
+        Function: foo
+            Parameter : a, b, c
+            Body:
+                a = 123;
+                b = 1.5;
+                c = "abc";
+            EndBody. 
+        

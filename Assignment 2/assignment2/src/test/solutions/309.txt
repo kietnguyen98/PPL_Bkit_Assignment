@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a),FloatLiteral(12000.0)),VarDecl(Id(b),FloatLiteral(12000.0)),VarDecl(Id(c),FloatLiteral(5.0)),VarDecl(Id(d),FloatLiteral(0.0)),VarDecl(Id(e),FloatLiteral(1.5e-97)),VarDecl(Id(f),FloatLiteral(0.00033))])

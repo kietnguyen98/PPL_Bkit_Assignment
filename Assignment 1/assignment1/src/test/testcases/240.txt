@@ -1,0 +1,31 @@
+ Function: testDoWhileStatement
+                        Parameter: x
+                        Body:
+                            Do
+                                Do
+                                    Do
+                                    While(1);
+                                While(2);
+                                    Do
+                                        Do
+                                        While(3);
+                                    While(4);
+                                Do
+                                    Do
+                                        Do
+                                        While(5);
+                                    While(6);
+                                While(7);
+                                    Do
+                                        Do
+                                        While(a);
+                                    While(b);  
+                                Do
+                                    Do 
+                                        Do
+                                        While(c);
+                                    While(True);
+                                While(False);
+                            While(12E-789);
+                        EndBody.
+                    

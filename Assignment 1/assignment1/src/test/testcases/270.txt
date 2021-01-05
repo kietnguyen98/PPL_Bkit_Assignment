@@ -1,0 +1,6 @@
+ Function: testbooleanexpression
+                        Parameter: x,y,z
+                        Body:
+                            x = !(!(!(y) && z) || (x > 3) !(y < 2));
+                        EndBody.
+                    

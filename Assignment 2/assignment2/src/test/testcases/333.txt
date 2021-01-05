@@ -1,0 +1,10 @@
+
+        Function: foo
+            Parameter : a, b, c
+            Body:
+                a = False;
+                b = True;
+                c = a || b;
+                a = (!(b && c)||!(a && c)||!(a && b)); 
+            EndBody. 
+        

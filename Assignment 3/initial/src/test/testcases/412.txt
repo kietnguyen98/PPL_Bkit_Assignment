@@ -1,0 +1,10 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: foo
+        Body:
+        EndBody.  
+        
+        Function: foo
+        Body:
+        EndBody.         
+                   

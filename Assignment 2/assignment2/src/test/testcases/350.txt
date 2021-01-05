@@ -1,0 +1,22 @@
+
+        Function: main
+        Parameter : a = 100
+        Body:
+            While ((a > 0)&&(a<=100)) Do
+                print(a);
+                While (a > 1.22) Do
+                    print("hello");
+                EndWhile.
+
+                While(True) Do
+                    While (False) Do
+                    Var: c;
+                    EndWhile.
+                EndWhile.
+
+                While((!(False))&&(a>5)) Do
+                    print(a);
+                EndWhile.
+            EndWhile.
+        EndBody.
+        

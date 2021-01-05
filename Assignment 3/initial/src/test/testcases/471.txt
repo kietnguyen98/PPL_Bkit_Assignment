@@ -1,0 +1,10 @@
+
+        Var: x, y = 5.0, z;
+        Function: main  
+        Body:
+            Var: t;
+            t = 0.3;
+            t = -.(y);
+            z = -(t);
+        EndBody.           
+                   

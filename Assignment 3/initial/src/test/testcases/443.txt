@@ -1,0 +1,10 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: main
+        Parameter: i
+        Body:
+            For (i = 1, i < 10, i = y *. y) Do
+                y = y +. 1;
+            EndFor.
+        EndBody.           
+                   

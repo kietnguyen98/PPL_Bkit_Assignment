@@ -1,0 +1,18 @@
+
+        Function: main
+        Parameter : i
+        Body:
+            If (i > 0) Then
+                i = i - 1;
+            ElseIf (i < 5) Then
+                i = i + 1;
+            ElseIf (i < -5) Then
+                i = i * i;
+            ElseIf (i % 2 == 0) Then
+                i = i + 1;
+            Else
+                Var: a = "end";
+                print(a);
+            EndIf.
+        EndBody. 
+        

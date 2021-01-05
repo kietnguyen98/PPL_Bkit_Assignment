@@ -1,0 +1,23 @@
+
+        Var: x = 2 , y, z[2][3] = True;
+        
+        Function: foo
+        Parameter: x , y, z 
+        Body:
+        EndBody.           
+        
+        Function: main
+        Parameter: t 
+        Body:
+            If (!(False)&&(2.5 >=. 1.0)) Then
+                Var : x;
+                x = 1;
+            ElseIf (z[2][3]) Then
+                x = 3;
+            ElseIf (y) Then
+                x = 4;
+            Else
+                x = 5; 
+            EndIf.
+        EndBody.           
+                   

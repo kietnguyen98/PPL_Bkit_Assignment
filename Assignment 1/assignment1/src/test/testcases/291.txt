@@ -1,0 +1,13 @@
+ Var : a;
+                    Var : b[10][20];
+                    Var : x,y;
+                    
+                    Function: program1
+                    Parameter: e
+                    Body:
+                    EndBody.
+
+                    Function: main
+                    Body:
+                    EndBody.
+                    

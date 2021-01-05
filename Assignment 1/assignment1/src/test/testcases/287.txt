@@ -1,0 +1,8 @@
+ Function: testfuncallexpression
+                        Parameter: a,b,c
+                        Body:
+                            a = foo(foo(a),foo(a),foo(b));
+                            b = foo1(foo1(b),"foo1");
+                            c = foo2(foo2(c) + foo2(b));
+                        EndBody.
+                    

@@ -1,0 +1,20 @@
+
+        Function: main
+        Parameter : n[5] = 10
+        Body:
+            For (i = n[1], i < n[5] , i = i*n[3]) Do
+                Var: a = 100;
+                print(a);
+            EndFor.
+
+            For (i = 100, i < 9999 , i = i*n[4]) Do
+                Var: b = 100;
+                print(c);
+            EndFor.
+
+            For (i = 100, i >= 0 , i = i / n[1]) Do
+                Var: b = "hello";
+                print(b);
+            EndFor.
+        EndBody.
+        

@@ -1,0 +1,17 @@
+
+        Var: x[2][3] = 2, y = False, z = True;
+        
+        Function: foo1
+        Parameter: t = 1
+        Body:
+            Return 1;
+        EndBody.    
+
+        Function: main
+        Parameter: t = 2
+        Body:
+            Var: x;
+            If (foo1(t,t)) Then
+            EndIf.
+        EndBody.      
+                   

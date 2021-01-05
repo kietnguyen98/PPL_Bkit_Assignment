@@ -1,0 +1,15 @@
+
+        Function: main
+        Parameter : a = 100
+        Body:
+            Do
+                Var: b[2] = False;
+                Do
+                    Var: c = 10;
+                    Do
+                        c = c - 1;
+                    While (c > 0);
+                While (!b[2]);
+            While (a >= 0);
+        EndBody.
+        

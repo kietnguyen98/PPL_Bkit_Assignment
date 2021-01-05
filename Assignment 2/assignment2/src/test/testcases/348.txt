@@ -1,0 +1,18 @@
+
+        Function: main
+        Parameter : a = 100
+        Body:
+            While ((a > 0)&&(a<=100)) Do
+                print(a);
+            EndWhile.
+
+            While (!((!True)||(False))) Do
+                print(a+1);
+            EndWhile.
+
+            While (a > 0xABC) Do
+                print(a+2);
+                a = a - 1;
+            EndWhile.
+        EndBody.
+        

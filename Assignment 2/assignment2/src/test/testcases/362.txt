@@ -1,0 +1,11 @@
+
+        Function: main
+        Parameter : a = 10
+        Body:
+            While (a > 0) Do
+                print(a);
+                Continue;
+                a = a + 1;
+            EndWhile.
+        EndBody.
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo)[VarDecl(Id(a),[5],IntLiteral(10)),VarDecl(Id(b),[2,3],IntLiteral(10)),VarDecl(Id(str),StringLiteral(string)),VarDecl(Id(check),BooleanLiteral(true))],([][])])

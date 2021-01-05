@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: If(CallExpr(Id(foo),[Id(x),Id(y),ArrayCell(Id(z),[IntLiteral(2),IntLiteral(3)])]),[],[])Else([],[])

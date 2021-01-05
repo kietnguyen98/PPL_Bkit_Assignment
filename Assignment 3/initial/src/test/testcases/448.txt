@@ -1,0 +1,11 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: main
+        Parameter: i
+        Body:
+            Do
+                Var: t[2] = 5.0;
+                t[2] = -. y;
+            While(!(!(!(!(z&&False||True)))));
+        EndBody.           
+                   

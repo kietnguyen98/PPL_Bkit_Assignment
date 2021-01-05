@@ -1,0 +1,10 @@
+Function: foo
+            Parameter: a[5], b
+            Body:
+                Var: i = 0;
+                If (i > 0) Then
+                    i = i - 1;
+                    a[2] = b *. 2.5;
+                EndIf.
+            EndBody.
+        

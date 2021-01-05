@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a),IntLiteral(100))],([][Dowhile([VarDecl(Id(b),[2],BooleanLiteral(false))],[Dowhile([VarDecl(Id(c),IntLiteral(10))],[Dowhile([],[Assign(Id(c),BinaryOp(-,Id(c),IntLiteral(1)))],BinaryOp(>,Id(c),IntLiteral(0)))],UnaryOp(!,ArrayCell(Id(b),[IntLiteral(2)])))],BinaryOp(>=,Id(a),IntLiteral(0)))])])

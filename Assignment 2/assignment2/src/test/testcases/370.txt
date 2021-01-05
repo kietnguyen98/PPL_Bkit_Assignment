@@ -1,0 +1,7 @@
+
+        Function: main
+        Parameter : a = 10, b = 5,c
+        Body:
+            c = (((a > 5)&&(b < 10))&&(a <= 100)||((b > a)&&(a <= b)));
+        EndBody.
+        

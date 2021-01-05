@@ -1,0 +1,10 @@
+ Function: testIfStatement
+                        Parameter: a, b, c, d
+                        Body:
+                            If (a == True) Then a = False;
+                            ElseIf (b == True) Then b = False;
+                            ElseIf (c == True) Then c = False;
+                            Else d = False;
+                            EndIf.
+                        EndBody.
+                    

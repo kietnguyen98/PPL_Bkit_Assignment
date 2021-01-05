@@ -1,0 +1,6 @@
+
+            Function: foo
+            Parameter: a[5] = 10, b[2][3] = 10, str = "string", check = True
+            Body:
+            EndBody.
+        

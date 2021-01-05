@@ -1,0 +1,9 @@
+
+        Function: program1
+        Parameter: e,f,g
+        Body:
+            For (e = 1, e < f, e = e + g ) Do
+                f = f + g;
+            EndFor.
+        EndBody.
+        

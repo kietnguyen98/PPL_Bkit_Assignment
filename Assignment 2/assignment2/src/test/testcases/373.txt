@@ -1,0 +1,11 @@
+
+        Function: main
+        Parameter: x,y,z,array[2][3]
+        Body:
+            x = 0x12A;
+            y = -3.5e-10;
+            z = 0o72;
+            array[1][1] = y *. y * array[2][2] / ( y -. z );
+            z = array[1][3] * x;
+        EndBody.
+        

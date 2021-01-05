@@ -1,0 +1,8 @@
+ Function: testContinueStatement
+                        Parameter: x
+                        Body:
+                            Do  
+                                Continue;
+                            While(True);
+                        EndBody.
+                    

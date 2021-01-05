@@ -1,0 +1,9 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: main
+        Parameter: t
+        Body:
+            For (i = 0, i < 10, i = i + 2) Do
+            EndFor.
+        EndBody.           
+                   

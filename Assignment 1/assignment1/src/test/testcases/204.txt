@@ -1,0 +1,4 @@
+Var: x = (a + b - c / d * 100) % e;
+                   Var: e[5];
+                   Var: decArray[987654321], hexArray[0x123456789][0XABCDEF], octArray[0o1234567][0O5731321];
+                

@@ -1,0 +1,8 @@
+
+        Function: main
+        Parameter : a = 10
+        Body:
+            Var : b = 1;
+            print(((a*b/(a+b))%a)*(b%(c +. 10.22)));
+        EndBody.
+        

@@ -1,0 +1,21 @@
+
+        Var: x[2][3] = 2, y = False, z = True;
+        
+        Function: foo1
+        Parameter: t = 1
+        Body:
+        EndBody.    
+
+        Function: main
+        Parameter: t = 2
+        Body:
+            For (t = 1, t  < 10, t = t + 1) Do
+                Var: y = 1;
+                For (t = 1, t < 5, t = t + 1) Do
+                    Var: x = 2.0;
+                        x = foo1(5);
+                EndFor.
+                y = foo1(3);
+            EndFor.
+        EndBody.      
+                   

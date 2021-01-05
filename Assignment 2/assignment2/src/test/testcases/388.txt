@@ -1,0 +1,13 @@
+ 
+        Function: program1
+        Parameter: e,f
+        Body:
+            Do
+                e = e + f;
+            While (True && (e < f*f));
+        EndBody.
+
+        Function: main
+        Body:
+        EndBody.
+        

@@ -1,0 +1,10 @@
+ Function: testrelationalexpression
+                        Parameter: x,y,z
+                        Body:
+                            If (x == y) Then
+                                x = ((a > 2) || (x >. 2e-35));
+                            EndIf.
+                            a = (x != z);
+                            z = (x < 3) && (y > 4);
+                        EndBody.
+                    

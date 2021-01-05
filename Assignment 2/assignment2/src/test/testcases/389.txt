@@ -1,0 +1,15 @@
+          
+        Function: main
+        Body:
+            Var : a1,b1,c1;
+            If (a1 > b1) Then
+                program1(a1,b1,c1);
+            ElseIf (a1 > c1) Then
+                program1(a1,c1,b1);
+            ElseIf(b1 > c1) Then
+                program1(b1,a1,c1);
+            Else
+                program1(c1,a1,b1);
+            EndIf.
+        EndBody.
+        

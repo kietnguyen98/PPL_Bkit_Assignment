@@ -1,0 +1,7 @@
+
+        Var: x, y[1][2] = 5, z = 2.5;
+        Function: main 
+        Body:
+            x = y[1][2] - z;
+        EndBody.           
+                   

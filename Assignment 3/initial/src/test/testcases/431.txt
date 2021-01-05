@@ -1,0 +1,9 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: main
+        Parameter: t 
+        Body:
+            If y Then
+            EndIf.
+        EndBody.           
+                   

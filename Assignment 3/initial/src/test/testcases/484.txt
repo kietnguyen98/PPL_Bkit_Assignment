@@ -1,0 +1,19 @@
+
+        Var: x[2][3], y = False, z = True;
+        
+        Function: foo
+        Parameter: t 
+        Body:
+        EndBody.    
+
+        Function: main
+        Parameter: t 
+        Body:
+            Var: x;
+            While (y) Do
+                Var: x;
+                x = x + x; 
+            EndWhile.
+            x = x +. x;
+        EndBody.           
+                   

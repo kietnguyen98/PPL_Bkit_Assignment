@@ -1,0 +1,8 @@
+
+        Function: main
+        Body:
+            Var : b = 2999, c[10000] = False;
+            Var : x = "this is a String", e = 0e123;
+            Var : y[2][99] = 0o223, z = 12.E-1, thing = True;
+        EndBody.
+        

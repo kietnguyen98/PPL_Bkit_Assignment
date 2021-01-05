@@ -1,0 +1,5 @@
+For (i = 0, i < 10, i = i + 2) Do
+                                                 writeln(i);
+                                                 foo (2 + x, 4. /. y);
+                                                 goo ();
+                                                 EndFor.

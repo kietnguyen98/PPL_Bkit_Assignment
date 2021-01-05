@@ -1,0 +1,28 @@
+
+        Var: x[2][3] = 2, y = False, z = True;
+        
+        Function: foo1
+        Parameter: t = 1
+        Body:
+            Return 1;
+        EndBody.    
+
+        Function: main
+        Parameter: t = 2
+        Body:
+            Var: x;
+            x = foo1(foo2(foo3(x)));
+        EndBody.  
+
+        Function: foo2
+        Parameter: t = 2
+        Body:
+            Return 2;
+        EndBody. 
+
+        Function: foo3
+        Parameter: t = 3
+        Body:
+            Return 3;
+        EndBody.          
+                   

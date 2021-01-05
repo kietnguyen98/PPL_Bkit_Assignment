@@ -1,0 +1,14 @@
+
+        Var: x[2][3], y = False, z = True;
+        
+        Function: foo
+        Parameter: t
+        Body:
+        EndBody.    
+
+        Function: main
+        Parameter: t = 2
+        Body:
+            x = foo(y && z);
+        EndBody.           
+                   

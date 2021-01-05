@@ -1,0 +1,22 @@
+
+        Var : a;
+        Var : b[10][20];
+        Var : x,y;
+                    
+        Function: program1
+        Parameter: e,f
+        Body:
+            While ( e < f ) Do
+                e = e + 1;
+            EndWhile.
+            Return e;
+        EndBody.
+
+        Function: main
+        Body:
+            While (f < e) Do
+                f = f + 1;
+            EndWhile.
+            Return f;
+        EndBody.
+        

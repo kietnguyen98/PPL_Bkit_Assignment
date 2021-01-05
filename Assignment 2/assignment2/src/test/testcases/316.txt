@@ -1,0 +1,21 @@
+
+            Function: foo1
+            Parameter: a[5], b
+            Body:
+                Var: i = 0;
+            EndBody.
+
+            Function: foo2
+            Parameter: a, b, c
+            Body:
+                i = a + b;
+                a = (b + c)*i;
+            EndBody.
+
+            Function: foo3
+            Parameter: a = 10, b = "hello"
+            Body:
+                Var: i = 0;
+                a = a * a;
+            EndBody.
+        

@@ -1,0 +1,1 @@
+Function,:,foo1,Parameter,:,a,;,Body,:,EndBody,.,Function,:,foo2,Parameter,:,b,;,Body,:,EndBody,.,Function,:,foo3,Parameter,:,c,;,Body,:,EndBody,.,<EOF>

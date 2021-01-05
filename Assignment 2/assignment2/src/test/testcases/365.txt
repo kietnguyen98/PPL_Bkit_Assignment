@@ -1,0 +1,9 @@
+
+        Function: main
+        Parameter : a = 10
+        Body:
+            Var : array[1][2] = 3;
+            Return print(array[1][2]*a + mul(array[0][0],a));
+            print(array[1][1]);
+        EndBody.
+        

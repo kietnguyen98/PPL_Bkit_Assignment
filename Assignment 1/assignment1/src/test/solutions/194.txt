@@ -1,0 +1,1 @@
+Function,:,foo,Parameter,:,a,,,b,,,c,[,10,],[,20,],;,Body,:,a,=,123,;,b,=,324,;,c,[,2,],[,3,],=,a,+,b,;,For,(,i,=,1,;,i,<,c,[,3,],[,4,],;,i,=,i,+,1,),Do,print,(,a,),;,print,(,b,),;,print,(,c,),;,EndFor,.,EndBody,.,<EOF>

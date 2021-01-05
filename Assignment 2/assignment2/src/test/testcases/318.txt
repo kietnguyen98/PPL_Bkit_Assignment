@@ -1,0 +1,12 @@
+
+            Function: main
+            Body:
+                Var: i = 0;
+            EndBody.
+
+            Function: foo
+            Parameter: a
+            Body:
+                Var: i = 0;
+            EndBody.
+        

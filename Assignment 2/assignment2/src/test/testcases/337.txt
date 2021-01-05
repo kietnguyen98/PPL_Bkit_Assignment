@@ -1,0 +1,11 @@
+
+        Function: main
+        Parameter : i
+        Body:
+            If (i > 0) Then
+                i = i - 1;
+            ElseIf (i < 5) Then
+                i = i + 1;
+            EndIf.
+        EndBody. 
+        

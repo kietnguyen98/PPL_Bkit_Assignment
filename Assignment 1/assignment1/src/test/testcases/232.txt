@@ -1,0 +1,8 @@
+ Function: testWhileStatement
+                        Parameter: x
+                        Body:
+                            While(!x) Do
+                                x = True;
+                            EndWhile.
+                        EndBody.
+                    

@@ -1,0 +1,16 @@
+
+        Var: x, y = 2.0, z = True;
+
+        Function: foo
+        Parameter: i
+        Body:
+        EndBody.  
+
+        Function: main
+        Parameter: i
+        Body:
+            For (i = foo(x), i < 10, i = i + 1) Do
+                x = 2;
+            EndFor.
+        EndBody.           
+                   

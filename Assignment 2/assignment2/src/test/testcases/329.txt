@@ -1,0 +1,8 @@
+
+        Function: main
+        Body:
+            Var : b = 2;
+            Var : c = 5;
+            Var : array[100][100];
+        EndBody.
+        

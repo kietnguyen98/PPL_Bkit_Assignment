@@ -1,0 +1,9 @@
+
+        Var: x[2][3], y = False, z = True;
+    
+        Function: main
+        Parameter: t 
+        Body:
+            x[y][z] = t - 4;
+        EndBody.           
+                   

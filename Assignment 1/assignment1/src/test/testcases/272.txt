@@ -1,0 +1,9 @@
+ Function: testrelationalexpression
+                        Parameter: x,y,z
+                        Body:
+                            If (x == y) Then
+                            EndIf.
+                            a = (x != z);
+                            z = (x < 3) && (y > 4);
+                        EndBody.
+                    

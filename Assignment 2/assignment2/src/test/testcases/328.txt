@@ -1,0 +1,6 @@
+
+        Function: main
+        Body:
+            Var : a[2][3] = 0o456, b = 0xA2B, c[4] = False;
+        EndBody.
+        

@@ -1,0 +1,8 @@
+
+        Function: main
+        Parameter : a = 10
+        Body:
+            Var: b;
+            b = (a <= 0x5) && ((a >= 2) || a <=. 0.5) && (a >. -7.5);
+        EndBody.
+        

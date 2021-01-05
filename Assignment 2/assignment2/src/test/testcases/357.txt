@@ -1,0 +1,12 @@
+
+        Function: main
+        Parameter : a = 10
+        Body:
+            Var : b = 100;
+            mul(a*b);
+            div(a/b);
+            add(a+b);
+            sub(a-b);
+            mod(a % b);
+        EndBody.
+        

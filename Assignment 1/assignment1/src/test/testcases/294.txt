@@ -1,0 +1,25 @@
+ Var : a;
+                    Var : b[10][20];
+                    Var : x,y;
+
+                    Function: program2
+                    Parameter: array[100][100][100]
+                    Body:
+                        For(i = 1, i < 100, i = i + 1) Do
+                            For(j = 1, j < 100, j = j + 1) Do
+                                For(k = 1, k < 100, k = k + 1) Do
+                                    array[i][j][k] = (120 * 2e-55 \ c) % a; 
+                                EndFor.                                
+                            EndFor.
+                        EndFor.
+                    EndBody.
+
+                    Function: main
+                    Body:
+                        Var : a[100][100][100];
+                        While(i < 100) Do
+                            writeln(program2(a[100][100][100]));
+                            i = i + 1;
+                        EndWhile.
+                    EndBody.
+                    

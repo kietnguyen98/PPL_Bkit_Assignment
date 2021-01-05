@@ -1,0 +1,15 @@
+
+            Function: foo1
+            Parameter: a[5], b
+            Body:
+                Var: i = 0;
+                Var: b = 2;
+            EndBody.
+
+            Function: foo2
+            Parameter: a, b
+            Body:
+                Var: i = 0;
+                Var: c = 3;
+            EndBody.
+        

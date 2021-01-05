@@ -1,0 +1,7 @@
+ Function: main
+                        Body:
+                        Var: a = 10.0e-1000;
+                        Var: d;
+                        Var: f = 0x12347; 
+                        EndBody.
+                    

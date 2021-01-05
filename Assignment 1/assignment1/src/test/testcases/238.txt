@@ -1,0 +1,14 @@
+ Function: testDoWhileStatement
+                        Parameter: x,a,b[10][10]
+                        Body:
+                            Do
+                                x = x + 1;
+                                Do
+                                    a = a + 2;
+                                    Do
+                                        b[10][10] = b[1][1] * b[2][2] * b[3][3] * b[4][4] * b[5][5]; 
+                                    While(b[10][10] <= b[9][9] - b[8][8] - b[7][7] - b[6][6]);
+                                While( a < 50);
+                            While(x < 100);
+                        EndBody.
+                    

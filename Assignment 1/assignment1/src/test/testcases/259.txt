@@ -1,0 +1,10 @@
+ Function: testReturnStatement
+                        Parameter: x,y
+                        Body:
+                            If(x > y) Then
+                                Return x;
+                            Else
+                                Return y
+                            EndIf.
+                        EndBody.
+                    

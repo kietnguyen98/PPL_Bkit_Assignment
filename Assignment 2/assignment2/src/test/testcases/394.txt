@@ -1,0 +1,10 @@
+
+        Function: program1
+        Parameter: a
+        Body:
+            Var: r = 10., v;
+            v = (4. / 3.) *. 3.14 *. r *. r *. r;
+            a = int_of_string (read ());
+            b = float_of_int (a) +. 2.0;
+        EndBody.
+        

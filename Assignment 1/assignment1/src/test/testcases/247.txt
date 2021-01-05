@@ -1,0 +1,6 @@
+ Function: testContinueStatement
+                        Parameter: x
+                        Body:
+                            Continue;
+                        EndBody.
+                    

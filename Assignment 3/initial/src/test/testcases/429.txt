@@ -1,0 +1,20 @@
+
+         Var: x[2][3], y = 5, z[3] = True;
+         Function: foo
+         Parameter: x
+         Body:
+             Var: t;
+         EndBody.   
+        
+        Function: foo1
+         Parameter: x[2][3], y
+         Body:
+             Var: t;
+         EndBody. 
+
+         Function: main  
+         Body:
+             Var: t, v = 3.5, f[9];
+             t = x[2][foo(y)] + f[foo1(z[3], 12.1 -. v*.v)];
+         EndBody.           
+                    

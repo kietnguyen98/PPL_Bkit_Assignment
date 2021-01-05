@@ -1,0 +1,17 @@
+ Var : a;
+                    Var : b[10][20];
+                    Var : x,y;
+                    
+                    Function: program1
+                    Parameter: e,f,g
+                    Body:
+                        For (e = 1, e < f, e = e + g ) Do
+                            f = f + g;
+                        EndFor.
+                    EndBody.
+
+                    Function: main
+                    Body:
+                        program1(a);
+                    EndBody.
+                    

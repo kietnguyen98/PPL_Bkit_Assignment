@@ -1,0 +1,24 @@
+ Function: testWhileStatement
+                        Parameter: x
+                        Body:
+                            While((x > a) && (x < b)) Do
+                                While((x >= b) || (x >= a)) Do
+                                    While((x > c * b) && (x < b*b)) Do
+                                        While(x > d) Do
+                                            x = x - 1;
+                                            d = d + 1;
+                                        EndWhile.
+                                        x = x - 1;
+                                        c = 2 * c;
+                                    EndWhile.
+                                    x = x - 1;
+                                    b = 3 * b;
+                                EndWhile.
+                                x = x - 1;
+                                a = a + 1;
+                                While( !False ) Do
+                                    a = a * 1;
+                                EndWhile.
+                            EndWhile.
+                        EndBody.
+                    

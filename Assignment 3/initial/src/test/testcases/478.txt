@@ -1,0 +1,10 @@
+
+        Var: x, y = False, z = True;
+        Function: main
+        Parameter: t 
+        Body:
+            t = 5;
+            x = y && z;
+            x = x + t;
+        EndBody.           
+                   

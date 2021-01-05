@@ -1,0 +1,16 @@
+
+        Var : a;
+        Var : b[10][20];
+        Var : x,y;
+                    
+        Function: program1
+        Parameter: a, b
+        Body:
+            Return (a + b);
+        EndBody.
+
+        Function: main
+        Body:
+            print(program1(a,b[2][3]));
+        EndBody.
+        

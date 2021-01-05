@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c))],([][Assign(Id(a),StringLiteral(hello my name is kiet)),Assign(Id(b),StringLiteral(this is my testcase)),Assign(Id(c),BinaryOp(+,Id(a),Id(b)))])])

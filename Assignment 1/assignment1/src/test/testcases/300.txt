@@ -1,0 +1,35 @@
+ Var : a;
+                    Var : b[10][20];
+                    Var : x,y;
+                    
+                    Function: program1
+                    Parameter: e,f,g
+                    Body:
+                        While((a < 100)&&(x + y < f)) Do
+                            If(b[1][1] == "string") Then
+                                Return a;
+                            EndIf.
+                            For(i = 0, i < 200, i = i * i) Do
+                                i = i*1.0e-9 / 12.2 * 0xABC - 0.00001;
+                                i = i + 0o7541;
+                                program1(i,"hello",False);
+                                Break;
+                            EndFor.
+                        EndWhile.
+                        Return program1("hello", i , True);
+                    EndBody.
+
+                    Function: main
+                    Body:
+                        Var : a1,b1,c1;
+                        If (a1 > b1) Then
+                            program1(a1,b1,c1);
+                        ElseIf (a1 > c1) Then
+                            program1(a1,c1,b1);
+                        ElseIf(b1 > c1) Then
+                            program1(b1,a1,c1);
+                        Else
+                            program1(c1,a1,b1);
+                        EndIf.
+                    EndBody.
+                    

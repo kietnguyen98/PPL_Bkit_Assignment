@@ -1,0 +1,7 @@
+
+        Function: main
+        Parameter: a[10],b[10]
+        Body:
+            a[b[3 + foo(2)]] = a[b[2][3]] + 4;
+        EndBody.
+        

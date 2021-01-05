@@ -1,0 +1,22 @@
+ Function: testIfStatement
+                        Parameter: x, y, z
+                        Body:
+                            If(x == True) Then 
+                                If(y == False) Then
+                                    If(z == False) Then
+                                        x = True;
+                                    Else
+                                        x = False;
+                                    EndIf.
+                                Else
+                                    y = False;
+                                EndIf.
+                            ElseIf((x || y || z ) == True) Then
+                                x = False;
+                                y = False;
+                                z = False;
+                            Else
+                                x = True;
+                            EndIf.
+                        EndBody.
+                    

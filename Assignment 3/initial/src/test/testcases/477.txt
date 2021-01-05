@@ -1,0 +1,10 @@
+
+        Var: x, y, z = 2;
+        Function: main
+        Parameter: t 
+        Body:
+            t = 5;
+            x = t * z;
+            y = (x >=. t); 
+        EndBody.           
+                   

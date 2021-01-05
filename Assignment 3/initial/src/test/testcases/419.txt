@@ -1,0 +1,14 @@
+
+         Var: x[2][3] = 5, y, z[3];
+         Function: foo
+         Parameter: x, y, z
+         Body:
+             Var: t;
+         EndBody.   
+
+         Function: main  
+         Body:
+             Var: t = 2;
+             t = foo(2,x[2][3],z[3]);
+         EndBody.           
+                    

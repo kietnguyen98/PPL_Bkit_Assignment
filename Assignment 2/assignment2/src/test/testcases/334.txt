@@ -1,0 +1,9 @@
+
+        Function: main
+        Body:
+            Var: a[5][5], b = 1.55, c = 10;
+            a[1][2] = b * c;
+            a[2][3] = b / c;
+            a[3][4] = ((b + c) - (b*c))/(b*5 - c *. -8.e15 / (a[1][1] + b + c));
+        EndBody.
+        

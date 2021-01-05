@@ -1,0 +1,10 @@
+
+        Var: x, y = 2.0, z = True;
+        Function: main
+        Parameter: i
+        Body:
+            Do
+                x = !x;
+            While (x);
+        EndBody.           
+                   

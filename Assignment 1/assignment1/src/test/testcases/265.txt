@@ -1,0 +1,8 @@
+ Function: testarithmeticexpression
+                        Parameter: x,y,ketqua
+                        Body:
+                            x = 0x12A;
+                            y = -3.5e-10;
+                            ketqua = (((((((((x - y) -. x) + y) +. x) * y) *. x) \ y) / y) % (x));
+                        EndBody.
+                    

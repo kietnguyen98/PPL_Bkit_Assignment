@@ -1,0 +1,5 @@
+ Function: main
+                        Body:
+                        Var: a[10][50], string = "boom", bool = False;
+                        EndBody.
+                    

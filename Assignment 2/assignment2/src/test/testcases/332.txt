@@ -1,0 +1,9 @@
+
+        Function: foo
+            Parameter : a, b, c
+            Body:
+                a = b + c;
+                a = b * c;
+                a = b / c;
+            EndBody. 
+        

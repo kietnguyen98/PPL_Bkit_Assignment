@@ -1,0 +1,8 @@
+
+        Function: main
+        Body:
+            For (i = 0, i < 10, i = i + 2) Do
+                writeln(i);
+            EndFor.
+        EndBody.
+        

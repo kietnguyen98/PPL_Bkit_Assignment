@@ -1,0 +1,16 @@
+ Function: foo1
+                    Parameter: a
+                    Body:
+                        If (foo2() == False) Then
+                            Return True;
+                        EndIf.
+                    EndBody.
+                                                 
+                    Function: foo2
+                    Parameter: b
+                    Body:
+                        If (foo1() == True) Then
+                            Return False;
+                        EndIf.
+                    EndBody.
+                    

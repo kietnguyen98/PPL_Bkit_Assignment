@@ -1,0 +1,18 @@
+ Function: testForStatement
+                        Parameter: x, array[10][10][10][10]
+                        Body:
+                            For (i = 1, i < x*x , i = i + 1 ) Do
+                                For( j = 1, j < x*x , j = j + 1) Do
+                                    For( k = 1, k < x*x , k = k + 1 ) Do
+                                        For( l = 1 , l < x*x , l = l + 1) Do
+                                            writeln(array[i][j][k][l]);
+                                            l = l + 1;
+                                            k = k + 1;
+                                            j = j + 1;
+                                            i = i + 1;
+                                        EndFor.
+                                    EndFor.
+                                EndFor.
+                            EndFor.
+                        EndBody.
+                    

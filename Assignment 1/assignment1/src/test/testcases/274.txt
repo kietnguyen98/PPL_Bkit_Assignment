@@ -1,0 +1,6 @@
+ Function: testrelationalexpression
+                        Parameter: x,y,z
+                        Body:
+                            z = ((x <. y) && (x >. y)) || ((x <=. y) && (x >=. y)); 
+                        EndBody.
+                    

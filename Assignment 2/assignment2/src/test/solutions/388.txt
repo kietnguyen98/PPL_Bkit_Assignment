@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(program1)[VarDecl(Id(e)),VarDecl(Id(f))],([][Dowhile([],[Assign(Id(e),BinaryOp(+,Id(e),Id(f)))],BinaryOp(&&,BooleanLiteral(true),BinaryOp(<,Id(e),BinaryOp(*,Id(f),Id(f)))))]),FuncDecl(Id(main)[],([][])])

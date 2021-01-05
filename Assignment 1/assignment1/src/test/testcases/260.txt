@@ -1,0 +1,8 @@
+ Function: testReturnStatement
+                        Parameter: x,y
+                        Body:
+                            Do  
+                                Return foo(x,y);
+                            While(True);
+                        EndBody.
+                    

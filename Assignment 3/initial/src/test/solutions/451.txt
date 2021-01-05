@@ -1,0 +1,1 @@
+Type Mismatch In Statement: While(Id(y),[VarDecl(Id(t),IntLiteral(5))],[Assign(Id(x),BinaryOp(-,Id(x),Id(t)))])

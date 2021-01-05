@@ -1,0 +1,11 @@
+
+        Function: main
+        Parameter: x,y,z
+        Body:
+            x = 0x12A;
+            y = -3.5e-10;
+            z = 0o72;
+            x = y *. y / ( y -. z );
+            z = z * x;
+        EndBody.
+        

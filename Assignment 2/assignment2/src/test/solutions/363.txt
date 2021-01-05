@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a),IntLiteral(10))],([][For(Id(i),IntLiteral(1),BinaryOp(<,Id(i),IntLiteral(5)),Id(i),BinaryOp(+,Id(i),IntLiteral(1)),[],[Assign(Id(i),BinaryOp(*,Id(i),Id(i))),Continue()]),CallStmt(Id(print),[StringLiteral(hello world!)])])])

@@ -1,0 +1,15 @@
+
+        Var: x[2][3], y = False, z = True;
+        
+        Function: foo
+        Parameter: t = 5
+        Body:
+            Return t;
+        EndBody.    
+
+        Function: main
+        Parameter: t = 2
+        Body:
+            t = x[foo(t)][foo(t)];
+        EndBody.           
+                   

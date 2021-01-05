@@ -1,0 +1,9 @@
+
+        Function: main
+        Parameter: a,b,c
+        Body:
+            If (foo(a[b][a])) Then
+                change(foo(a[b][a]));
+            EndIf.
+        EndBody.
+        

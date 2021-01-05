@@ -1,0 +1,17 @@
+ Function: testWhileStatement
+                        Parameter: x,a,b,c,d
+                        Body:
+                            While(x > a) Do
+                                While(x > b) Do
+                                    While(x > c) Do
+                                        While(x > d) Do
+                                            x = x - 1;
+                                        EndWhile.
+                                        x = x - 1;
+                                    EndWhile.
+                                    x = x - 1;
+                                EndWhile.
+                                x = x - 1;
+                            EndWhile.
+                        EndBody.
+                    

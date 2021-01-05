@@ -1,0 +1,7 @@
+ Function: testarithmeticexpression
+                        Parameter: x,y
+                        Body:
+                            x = x - x + y / y;
+                            y = ( y \ y * x - x ) % (x);
+                        EndBody.
+                    
